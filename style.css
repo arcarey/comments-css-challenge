@@ -20,6 +20,7 @@ body {
 }
 .card-header-content {
     margin-left: 15px;
+    color: hsl(211, 10%, 45%);
 }
 
 .child {
