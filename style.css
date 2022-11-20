@@ -1,3 +1,31 @@
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+body {
+    background-color:hsl(228, 33%, 97%);
+}
+
+.comment-card {
+    background-color: white;
+    margin: 10px 13% 10px 13%;
+    border-radius: 8px;
+}
+
+.card-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.card-header-content {
+    margin-left: 15px;
+}
+
+.child {
+    margin-left: 20%;
+}
+
+img {
+    width: 2em;
+}
